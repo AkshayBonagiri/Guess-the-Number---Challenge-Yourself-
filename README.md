@@ -13,6 +13,6 @@ A simple Python-based guessing game where you try to guess the number randomly c
 
 1. Make sure you have **Python 3** installed on your system.
 2. Clone this repository or download the file.
-3. Run the program:
+
 
 
