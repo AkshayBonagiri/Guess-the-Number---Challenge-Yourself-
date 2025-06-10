@@ -15,5 +15,4 @@ A simple Python-based guessing game where you try to guess the number randomly c
 2. Clone this repository or download the file.
 3. Run the program:
 
-```bash
-python guessing_game.py
+
